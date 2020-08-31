@@ -1,6 +1,6 @@
 # Eat-Da-Burger
 ## Overview
-A Node, Express, Handlebars, and MySQL burger app that lets users input the names of burgers they'd like to eat... and then devour them! Please check out the launched app on Heroku [here](https://www.)!
+A Node, Express, Handlebars, and MySQL burger app that lets users input the names of burgers they'd like to eat... and then devour them! Please check out the launched app on Heroku [here](https://fast-ridge-47708.herokuapp.com/)!
 
 ## How to use the Application
 In the text area type in the name of a burger that you would like to eat, and hit the 'Add Burger' submit button.
